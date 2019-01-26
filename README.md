@@ -1,1 +1,1 @@
-# hello-worldЯчеловек
+# hello-world
